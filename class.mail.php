@@ -7,7 +7,7 @@
  * @version 1.0.1
  */
 
-namespace Wstory\Mail;
+namespace SendinBlueHelper\Mail;
 class Mail
 {	
 
